@@ -1,4 +1,4 @@
-patient ,"diagnosis (0-Normal, 1-Sick)"
+patient,"diagnosis (0-Normal, 1-Sick)"
 sick_eff0,0
 sick_eff1,0
 sick_eff2,0
