@@ -1,4 +1,4 @@
-images,predictions
+images,"predictions (0-Normal, 1-Sick)"
 dataset1\unknown_images\37.png,0
 dataset1\unknown_images\8.png,1
 dataset1\unknown_images\6.png,1
